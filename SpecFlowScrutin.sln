@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowScrutin", "SpecFlowScrutin\SpecFlowScrutin.csproj", "{5A98540C-4CA9-4749-8C3F-7C640F743099}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowScrutin.Specs", "SpecFlowScrutin.Specs\SpecFlowScrutin.Specs.csproj", "{C43C3F13-B0BB-4BEA-B2D8-E9DE0B5B2E41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A98540C-4CA9-4749-8C3F-7C640F743099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A98540C-4CA9-4749-8C3F-7C640F743099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A98540C-4CA9-4749-8C3F-7C640F743099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A98540C-4CA9-4749-8C3F-7C640F743099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C43C3F13-B0BB-4BEA-B2D8-E9DE0B5B2E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43C3F13-B0BB-4BEA-B2D8-E9DE0B5B2E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43C3F13-B0BB-4BEA-B2D8-E9DE0B5B2E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43C3F13-B0BB-4BEA-B2D8-E9DE0B5B2E41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

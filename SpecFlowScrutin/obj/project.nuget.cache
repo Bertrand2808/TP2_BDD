@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WSN0dB+/ab0=",
+  "success": true,
+  "projectFilePath": "E:\\Documents_HDD\\ssd\\Cours_ESGI\\M1\\Behaviour Driven Development\\TP2\\SpecFlowScrutin\\SpecFlowScrutin\\SpecFlowScrutin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bertr\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\bertr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\bertr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}

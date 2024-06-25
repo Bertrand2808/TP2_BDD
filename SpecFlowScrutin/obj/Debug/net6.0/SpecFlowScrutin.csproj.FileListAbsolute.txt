@@ -1,0 +1,11 @@
+E:\Documents_HDD\ssd\Cours_ESGI\M1\Behaviour Driven Development\TP2\SpecFlowScrutin\SpecFlowScrutin\bin\Debug\net6.0\SpecFlowScrutin.deps.json
+E:\Documents_HDD\ssd\Cours_ESGI\M1\Behaviour Driven Development\TP2\SpecFlowScrutin\SpecFlowScrutin\bin\Debug\net6.0\SpecFlowScrutin.dll
+E:\Documents_HDD\ssd\Cours_ESGI\M1\Behaviour Driven Development\TP2\SpecFlowScrutin\SpecFlowScrutin\bin\Debug\net6.0\SpecFlowScrutin.pdb
+E:\Documents_HDD\ssd\Cours_ESGI\M1\Behaviour Driven Development\TP2\SpecFlowScrutin\SpecFlowScrutin\obj\Debug\net6.0\SpecFlowScrutin.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents_HDD\ssd\Cours_ESGI\M1\Behaviour Driven Development\TP2\SpecFlowScrutin\SpecFlowScrutin\obj\Debug\net6.0\SpecFlowScrutin.AssemblyInfoInputs.cache
+E:\Documents_HDD\ssd\Cours_ESGI\M1\Behaviour Driven Development\TP2\SpecFlowScrutin\SpecFlowScrutin\obj\Debug\net6.0\SpecFlowScrutin.AssemblyInfo.cs
+E:\Documents_HDD\ssd\Cours_ESGI\M1\Behaviour Driven Development\TP2\SpecFlowScrutin\SpecFlowScrutin\obj\Debug\net6.0\SpecFlowScrutin.csproj.CoreCompileInputs.cache
+E:\Documents_HDD\ssd\Cours_ESGI\M1\Behaviour Driven Development\TP2\SpecFlowScrutin\SpecFlowScrutin\obj\Debug\net6.0\SpecFlowScrutin.dll
+E:\Documents_HDD\ssd\Cours_ESGI\M1\Behaviour Driven Development\TP2\SpecFlowScrutin\SpecFlowScrutin\obj\Debug\net6.0\refint\SpecFlowScrutin.dll
+E:\Documents_HDD\ssd\Cours_ESGI\M1\Behaviour Driven Development\TP2\SpecFlowScrutin\SpecFlowScrutin\obj\Debug\net6.0\SpecFlowScrutin.pdb
+E:\Documents_HDD\ssd\Cours_ESGI\M1\Behaviour Driven Development\TP2\SpecFlowScrutin\SpecFlowScrutin\obj\Debug\net6.0\ref\SpecFlowScrutin.dll
