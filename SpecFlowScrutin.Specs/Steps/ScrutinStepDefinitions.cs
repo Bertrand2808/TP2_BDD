@@ -32,6 +32,15 @@ public sealed class ScrutinStepDefinitions
         _scrutin.countCandiate3 = candidate3;
     }
     
+    [Given("the votes are (.*), (.*), (.*), (.*)")]
+    public void GivenTheVotesAre(int candidate1, int candidate2, int candidate3, int whiteVotes)
+    {
+        _scrutin.countCandiate1 = candidate1;
+        _scrutin.countCandiate2 = candidate2;
+        _scrutin.countCandiate3 = candidate3;
+        _scrutin.countWhiteVotes = whiteVotes;
+    }
+    
     [When("the poll of the first round is close")]
     public void WhenTheVotesAreCounted()
     {
@@ -73,9 +82,23 @@ public sealed class ScrutinStepDefinitions
         _scrutin.secondRoundCountCandidate2 = candidate2;
     }
     
+    [Given("the votes for the second round are (.*), (.*), (.*)")]
+    public void GivenTheVotesForTheSecondRoundAre(int candidate1, int candidate2, int whiteVotes)
+    {
+        _scrutin.secondRoundCountCandidate1 = candidate1;
+        _scrutin.secondRoundCountCandidate2 = candidate2;
+        _scrutin.countWhiteVotesSecondRound = whiteVotes;
+    }
+    
     [When("the poll of the second round is close")]
     public void WhenTheVotesForTheSecondRoundAreCounted()
     {
         _scrutin.GetWinnerOfSecondRound();
+    }
+    
+    [Then("the result should be \"(.*)\"")]
+    public void ThenTheResultShouldBe(string result)
+    {
+        Assert.Equal(result, _scrutin.winner);
     }
 }
