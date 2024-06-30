@@ -118,3 +118,8 @@ Scenario: Handle white votes
   Then the result should be "No winner due to a tie"
 ```
 
+## Tests
+
+Résultat du lancement des tests :
+
+![alt text](image.png)
